@@ -11,3 +11,4 @@ I am master!!!
 I am second-master!!! This is my second test!!!
 I am master!!! This is my update in GitHub!
 I am cs1-demo master!!! This is my first commit!
+This is test of cs1
